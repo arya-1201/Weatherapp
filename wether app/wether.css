@@ -1,0 +1,19 @@
+.weather-container {
+    text-align: center;
+    margin-top: 50px;
+ }
+ 
+ input[type="text"] {
+    height: 30px;
+    width: 200px;
+    margin-right: 10px;
+ }
+ 
+ button {
+    height: 30px;
+    width: 100px;
+ }
+ 
+ #weather-info {
+    margin-top: 20px;
+ }
